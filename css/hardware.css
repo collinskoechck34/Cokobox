@@ -1,0 +1,26 @@
+body{
+	background-image: url(file:///home/collins/Documents/www.CokoBox.com/img/bgHardware.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:auto;
+	background-attachment: fixed;
+}
+h4{
+	color:orange;
+}
+h5{
+	color:rgb(255,255,51);
+}
+h3{
+	color:orange;
+}
+.pricing{
+  font-family: verdana;
+  font-size: 120%;
+  font-style: bold;
+  color:rgb(224,224,224); 
+}
+.red{
+	color: red;
+}
